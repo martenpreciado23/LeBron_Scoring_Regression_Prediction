@@ -3,6 +3,8 @@ LeBron scoring model using Machine Learning Regression
 
 Small Personal Practice Multiple Linear Regression model using libraries like pandas, numpy, scikit-learn
 
+I found this data through scraping NBA api
+
 Open for future improvements
 
 ```
